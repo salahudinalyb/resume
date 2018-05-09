@@ -75,15 +75,15 @@ img {
 @media(max-width: 760px){
 
     h1 {
-        font-size: 20%;
+        font-size: 80%;
     }
 
     p {
-        font-size: 50%;
+        font-size: 70%;
     }
 
     ul li a {
-        font-size: 50%;
+        font-size: 70%;
         color: #6B6B6B;
     }
 
